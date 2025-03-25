@@ -20,5 +20,5 @@ The Student Report Card System is a simple Python-based application that allows 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/student-report-card.git
+   git clone https://github.com/bruntha-24/STUDENT-REPORT-CARD.git
    cd student-report-card
